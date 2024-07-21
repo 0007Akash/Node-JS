@@ -1,0 +1,4 @@
+This is the file on which various operations like read, write, update, delete need to be performed.
+This is the extra content which got appended through CLI
+New Data
+Let's play with the coding
