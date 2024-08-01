@@ -1,0 +1,4 @@
+Validation error: ID must be a number Rating must be a number Cast must be an array
+Validation error: ID must be a number Rating must be a number Cast must be an array
+Validation error: Cast must be an array
+Validation error: Genre must be a string
